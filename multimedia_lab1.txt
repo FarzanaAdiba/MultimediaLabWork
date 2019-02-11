@@ -36,3 +36,33 @@ It is manufactured by Foxconn.
 First realease date-November 19,2007.
 It's OS-Linux Kernels 2.6.10 to 3.0
 Currently 4th generation Kindle is used.
+
+
+After watching video on sound studio:::
+
+The devices necessary-
+PC with i5 or i7 processor.
+Hard drive space:500GB 729 rpm
+DAW for recording,editing,mixing
+Audacity is used
+
+
+E-CONTENT DEVELOPMENT
+
+It is proposed to create high quality,currriculam based,interactine content in different subjects
+across all dicsiplines.
+
+Objectives:
+
+*developing e-teaching materials without IT-expertise.
+*developing e-content using contemporary ICT.
+*maintaining uniformity and following appropriate standards.
+*4 Quadrant model-
+ 1.Quadrant i
+ 2.Quadrant ii
+ 3.Quadrant iii
+ 4.Quadrant iv
+
+
+
+
