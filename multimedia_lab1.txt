@@ -1,0 +1,38 @@
+Audio Software:
+1.Jack-low latency capable audio and midi server.
+2.Ardour-Digital Audio workstation(DAW) suitable for recording ,mixing, matching.
+3.Virtual guitar Amps-
+ 2 popoular guitar amp simulators:
+  Rakarrack
+  Guitarix
+4.Audio programming-easy to use audio programming environments available to Ubuntu Studio,such as preinstalled puredata.
+
+Graphics Software:
+1.Blender-It is a full fledged 3D content creation suite.It has it's own game engine and vastly expandable with addons.Some works can be done
+  like-
+ *3D solids and character modeling
+ *Scene animation
+ *Physics and particle functions
+ *Shading
+ *Game engine
+ *Imaging and compositing
+
+2.Inkspace-It is a vector graphics editor,similar to illustrator,CorelDraw,Xara X.
+  file format-SVG file.
+
+3.GIMP-Gnu Image Manipulation Progaram,similar to Photoshop
+
+
+KINDLE
+
+Amazon kindle is a series of e-readers designed and marketed by Amazon.It enables user to
+
+*browse
+*buy
+*download
+*read e-books
+
+It is manufactured by Foxconn.
+First realease date-November 19,2007.
+It's OS-Linux Kernels 2.6.10 to 3.0
+Currently 4th generation Kindle is used.
